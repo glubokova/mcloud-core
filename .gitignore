@@ -12,3 +12,4 @@ build/
 *.ipr
 out/
 
+/gradle/wrapper/gradle-wrapper.properties
