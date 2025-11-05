@@ -1,0 +1,16 @@
+
+.git
+../../../../../../../.gitignore
+README.md
+*.log
+.idea/
+.iml
+.vscode/
+target/
+build/
+*.class
+*.jar
+*.md
+.git/
+.gitignore
+
