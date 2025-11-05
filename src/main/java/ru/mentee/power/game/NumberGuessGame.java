@@ -25,7 +25,7 @@ public class NumberGuessGame {
                 System.out.println("Меньше!");
             } else {
                 guessed = true;
-                System.out.println("Поздравляю!" + secretNumber);
+                System.out.println("Поздравляю!!!" + secretNumber);
                 System.out.println("Количество попыток: " + attempts);
             }
         }
